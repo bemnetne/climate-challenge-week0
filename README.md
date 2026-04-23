@@ -9,7 +9,7 @@ This project demonstrates a standard Python project structure including:
 ---
 
 
-# ⚙️ 1. Virtual Environment Setup (venv)
+#  1. Virtual Environment Setup (venv) Create CI Configuration
 
 We use Python’s virtual environment to isolate dependencies.
 
@@ -21,6 +21,6 @@ python -m venv venv
 
 venv\Scripts\Activate
 
-## Create CI Configuration
+# 2. Create CI Configuration
 
 .github/workflows/ci.yml
